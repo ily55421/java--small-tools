@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9b6e103-f214-4d95-9a88-67dbcdd00faf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.myeclipse/profiler/MainApplication (1).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/master.gh" beforeDir="false" afterPath="$PROJECT_DIR$/master.gh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/config/UserArgumentResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/config/UserArgumentResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/GoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/MiaoshaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/MiaoshaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/SampleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/SampleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/domain/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/domain/Goods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/domain/MiaoshaGoods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/domain/MiaoshaGoods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/domain/MiaoshaOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/domain/MiaoshaOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/domain/MiaoshaUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/domain/MiaoshaUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/domain/OrderInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/domain/OrderInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/exception/GlobalException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/exception/GlobalException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/rabbitmq/MQConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/rabbitmq/MQConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/rabbitmq/MQReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/rabbitmq/MQReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/rabbitmq/MQSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/rabbitmq/MQSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/rabbitmq/MiaoshaMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/rabbitmq/MiaoshaMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/redis/KeyPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/redis/KeyPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/redis/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/redis/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/redis/RedisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/redis/RedisService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/result/CodeMsg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/result/CodeMsg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/result/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/result/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/service/MiaoshaUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/service/MiaoshaUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/util/ValidatorUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/util/ValidatorUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/vo/GoodsDetailVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/vo/GoodsDetailVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/vo/GoodsVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/vo/GoodsVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/vo/LoginVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/vo/LoginVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/vo/OrderDetailVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/miaosha/vo/OrderDetailVo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2CVT8LJ30ldOknFgofmFxyhjjud" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/lin/project/miaosha",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.31494254",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="miaosha" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.miaosha.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9b6e103-f214-4d95-9a88-67dbcdd00faf" name="Changes" comment="" />
+      <created>1658886592233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658886592233</updated>
+      <workItem from="1658886593563" duration="4636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

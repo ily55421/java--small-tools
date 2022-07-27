@@ -1,0 +1,5 @@
+git add .
+git commit -m "auto update"
+## -u | --set-upstream 设置上游
+## -f | --force  强制推送
+git push -u -f origin master
